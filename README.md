@@ -13,6 +13,6 @@ The version maintained in this repository may be slightly out-of-sync with the v
 | Author | Zacharias Cohen de Boer (1847–1915) |
 | Publisher | Project Gutenberg, Urbana, Illinois, USA., 2011-01-15 |
 | Publication date | 2011-01-15 |
-| Availability | Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de [Project Gutenberg Licentie](https://www.gutenberg.org/license) bij dit eBoek of on-line op [www.gutenberg.org](https://www.gutenberg.org/). Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op [www.pgdp.net](http://www.pgdp.net/). |
+| Availability | Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie in dit eBoek of on-line op [www.gutenberg.org](https://www.gutenberg.org/). Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op [www.pgdp.net](https://www.pgdp.net/). |
 | Description | Een encyclopedisch woordenboek over de klassieke oudheid. |
 | PG Ebook Number | [34955](https://www.gutenberg.org/ebooks/34955) |
